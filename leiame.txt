@@ -1,1 +1,2 @@
 Creating an Android Project: Creação do projeto Android com propriedades default.
+Running your App: Execução da aplicação criada no commit anterior.

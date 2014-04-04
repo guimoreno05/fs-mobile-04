@@ -1,0 +1,1 @@
+Creating an Android Project: Creação do projeto Android com propriedades default.

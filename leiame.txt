@@ -1,3 +1,4 @@
 Creating an Android Project: Creação do projeto Android com propriedades default.
 Running your App: Execução da aplicação criada no commit anterior.
 Building a Simple User Interface: Construção de uma interface de usuário simples para a aplicação anterior.
+Starting Another Activity: Criando resposta ao botão iniciar da interface construida.
